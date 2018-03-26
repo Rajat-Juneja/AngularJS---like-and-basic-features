@@ -1,0 +1,1 @@
+const like = angular.module("like",[]);
